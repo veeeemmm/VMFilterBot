@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/fe1305be2606dcbfb9c08.jpg" alt="VMFilterBot Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>VMFilterBot</b>
 </h1>
 
 
